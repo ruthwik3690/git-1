@@ -1,1 +1,1 @@
-log.console("feature-a")
+console.log("feature-b")
